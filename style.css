@@ -11,16 +11,16 @@
     justify-content: center;
     align-items: center;
     height: 100vh;
-    padding: 10px; /* Tambahan padding agar lebih fleksibel */
+    padding: 10px;
   }
   
   .container {
     background-color: #fff;
-    padding: 20px; /* Perkecil padding agar lebih kompak */
+    padding: 20px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    width: 90%; /* Sesuaikan dengan layar agar responsif */
-    max-width: 360px; /* Batasi lebar maksimal */
+    width: 90%;
+    max-width: 360px;
     text-align: center;
   }
   
@@ -70,7 +70,7 @@
   
   .result-table th, .result-table td {
     border: 1px solid #ccc;
-    padding: 6px; /* Perkecil padding agar tabel lebih kompak */
+    padding: 6px;
     text-align: center;
   }
   
